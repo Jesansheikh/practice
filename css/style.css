@@ -1,0 +1,128 @@
+ /*  ===============================
+             *** COMMON CSS ***
+    ================================== */
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Georgia sans-serif;
+   
+}
+body{
+    background-color: #EBEBEB;
+    font-size: 16px;
+ }
+
+ 
+
+ /*  ===============================
+             *** Icon ***
+    ================================== */
+ .socialIcon{
+     float: left;
+ }
+ .socialIcon ul li{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.socialIcon ul i{
+    color: white;
+    background: #333333;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.socialIcon .fa-linkedin-in:hover{
+    background: #EE802F;
+}
+.socialIcon .fa-twitter:hover{
+    background: #EE802F;
+}
+.socialIcon .fa-pinterest:hover{
+    background: #EE802F;
+}
+.socialIcon .fa-google-plus-g:hover{
+    background: #EE802F;
+}
+.socialIcon .fa-rss:hover{
+    background: #EE802F;
+}
+ /*  ===============================
+             ***Mini Menu***
+    ================================== */
+ .minimenu{
+     float: right;
+ }
+ .minimenu ul li a{
+     text-decoration: none;
+     color: #97455F;
+ }
+
+ .minimenu ul li{
+     display: inline-block;
+     margin-right: 10px;
+     margin-top: 10px;
+    
+ }
+ /*  ===============================
+             ***Name bar***
+    ================================== */
+.wName{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #333333;
+}
+.submit_color{
+    border: 2px solid #97455F;
+    color: white;
+}
+.submit_color:hover{
+    background-color: #97455F;
+    color: white;
+    border: 2px solid #97455F;
+}
+.search:hover{
+    border: 2px solid #97455F;
+}
+
+/*  ===============================
+             ***Nav bar***
+    ================================== */
+
+    .navBar{
+        background-color: #97455F;
+        margin-right: 15px;
+        width: 100%;
+        /* border: 2px solid red; */
+    }
+    .navBar:hover{
+        background-color: #6A3144;
+    }
+
+
+    /*  ===============================
+             ***sleaider***
+    ================================== */
+
+    .img1{
+        max-width: 100%;
+        height: auto;
+    }
+
+    /*  ===============================
+             ***tem***
+    ================================== */
+    .tem{
+        background-color: #97455F;
+    }
+
+    .text_ca{
+        color: #97455F;
+    }
+
+
+
+    
