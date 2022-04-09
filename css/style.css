@@ -87,6 +87,9 @@ body{
 .search:hover{
     border: 2px solid #97455F;
 }
+.bgname{
+    background-color: #EBEBEB;
+}
 
 /*  ===============================
              ***Nav bar***
@@ -107,7 +110,7 @@ body{
              ***sleaider***
     ================================== */
 
-    .img1{
+    .img0{
         max-width: 100%;
         height: auto;
     }
@@ -121,6 +124,27 @@ body{
 
     .text_ca{
         color: #97455F;
+    }
+
+    /*  ===============================
+             ***img***
+    ================================== */
+    .img3{
+        height: 115px;
+        width: 135px;
+    }
+    .img4{
+        height: 90px;
+        width: 90px;
+        margin-top: -22px;
+    }
+    .img2{
+        height: 128px;
+        width: 150px;
+    }
+    .img1{
+        height: 64px;
+        width: 100px;
     }
 
 
